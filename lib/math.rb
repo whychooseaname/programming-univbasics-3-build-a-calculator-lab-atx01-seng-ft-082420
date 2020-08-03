@@ -19,5 +19,5 @@ answer=num1%num2
 end
 
 def square_root(num)
-answer=sqrt(num)
+p math.sqrt(num1)
 end
